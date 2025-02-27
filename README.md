@@ -86,7 +86,7 @@
 
 ## Скриншоты и демо
 
-![Пример интерфейса](demo-screenshot.png)
+![demo-screenshot.png](https://github.com/poya1nik/AI-Assistant/blob/main/telegram.jpg)
 *Пример интерфейса ИИ-ассистента.*
 
 ---
